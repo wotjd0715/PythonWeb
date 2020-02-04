@@ -31,7 +31,7 @@
    ```
    ![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p3.png)   
    프로젝트 창에 새롭게 db.sqlite3이 만들어 진것을 확인할수 있습니다.
-   이 파일애 우리가 웹 프로그래밍에서 다루는 회원 정보, 글 정보가 저장됩니다.
+   이 파일 우리가 웹 프로그래밍에서 다루는 회원 정보, 글 정보가 저장됩니다.
    
  ## 2.3 프로젝트 구조 살펴 보기
  >config
