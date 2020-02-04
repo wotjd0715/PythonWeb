@@ -9,7 +9,7 @@
 2. `Loction:/User/~~~~/untitled`에서 `untitled`부분에 자신이 원하는 project명 넣기
 
 3. create 버튼 누르기!   
-![git](https://github.com/wotjd0715/Python/blob/master/d2p1.png)   
+![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p1.png)   
 4. 사진의 1번에 자신이 만든 project안에 `venv`라는 가상 환경 폴더가 생성된 것을 확인 하고
  2번 terminal을 눌른다.   
   
@@ -21,7 +21,7 @@
    ```python
    django-admin startproject config .
    ```
-   ![git](https://github.com/wotjd0715/Python/blob/master/d2p2.png)   
+   ![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p2.png)   
     
    성공적으로 프로젝트를 만들었다면 cofig폴더와 manage.py가 생성됩니다.
    
@@ -29,7 +29,7 @@
    ```python
    python manage.py migrate
    ```
-   ![git](https://github.com/wotjd0715/Python/blob/master/d2p3.png)   
+   ![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p3.png)   
    프로젝트 창에 새롭게 db.sqlite3이 만들어 진것을 확인할수 있습니다.
    이 파일애 우리가 웹 프로그래밍에서 다루는 회원 정보, 글 정보가 저장됩니다.
    
@@ -82,6 +82,6 @@ Password (again): (원래 입력해도 표시되지 않습니다.)
 python manage.py reunserver
 ```
 terminal에 뜨는 `http://127.0.0.1:8000/`를 클릭해 자신의 웹 사이트에 들어 가봅니다.   
-![git](https://github.com/wotjd0715/Python/blob/master/d2p4.png)   
+![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p4.png)   
 추가로 웹 브라우저에 `http://127.0.0.1:8000/admin`을 입력할경우 관리자 화면으로 접속 가능 합니다.   
-![git](https://github.com/wotjd0715/Python/blob/master/d2p5.png)
+![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p5.png)
