@@ -4,14 +4,14 @@
 - [파이참 설치하러가기](wwww.jetbrains.com/pycharm/download/)
 
 ## 2.2 프로젝트 생성하기
-1. Pycharm창에서 Create New Project 누르기
+1. Pycharm창에서 Create New Project 눌러줍니다.
 
-2. `Loction:/User/~~~~/untitled`에서 `untitled`부분에 자신이 원하는 project명 넣기
+2. `Loction:/User/~~~~/untitled`에서 `untitled`부분에 자신이 원하는 project명을 넣어줍니다.
 
 3. create 버튼 누르기!   
 ![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p1.png)   
 4. 사진의 1번에 자신이 만든 project안에 `venv`라는 가상 환경 폴더가 생성된 것을 확인 하고
- 2번 terminal을 눌른다.   
+ 2번 `terminal`을 눌러줍니다.   
   
 5. 이제 장고를 설치해 줍니다.
    ```python
