@@ -83,5 +83,7 @@ python manage.py reunserver
 ```
 terminal에 뜨는 `http://127.0.0.1:8000/`를 클릭해 자신의 웹 사이트에 들어 가봅니다.   
 ![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p4.png)   
+
 추가로 웹 브라우저에 `http://127.0.0.1:8000/admin`을 입력할경우 관리자 화면으로 접속 가능 합니다.   
+
 ![git](https://github.com/wotjd0715/PythonWeb/blob/master/images/d2p5.png)
